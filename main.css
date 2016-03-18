@@ -1,0 +1,14 @@
+h1{
+    color:blue;
+}
+img{
+    margin-top:100px;
+width:50%;    
+
+    border-radius:50%;
+}
+body{
+    background-color:18378;
+    text-align:center;
+    font-family: "Slabo 27px";
+}
